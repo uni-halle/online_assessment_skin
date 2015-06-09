@@ -364,6 +364,19 @@ div#mainscrolldiv {
 
 /* --- Test Question Width --- */
 
+div.ilc_question_Standard
+{
+	margin: 20px 0px;
+	padding: 10px 60px 10px 30px;
+	background-color: #ffffff;
+	border-width: 1px;
+	border-color: #81ab2e;
+	border-style: solid;
+	background-image: url(../../../templates/default/images/qmark.png);
+	background-repeat: no-repeat;
+	background-position: top right;
+}
+
 div.ilc_question_Standard p{
 	max-width: 800px;	
 }
